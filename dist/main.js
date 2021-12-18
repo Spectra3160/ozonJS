@@ -1,0 +1,1 @@
+(()=>{"use strict";(()=>{const e=document.getElementById("cart"),t=document.querySelector(".cart"),l=t.querySelector(".cart-close");e.addEventListener("click",(()=>{t.style.display="flex"})),l.addEventListener("click",(()=>{t.style.display=""}))})(),console.log("Hello World!")})();
